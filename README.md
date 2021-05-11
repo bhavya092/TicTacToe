@@ -1,16 +1,36 @@
 # TicTacToe
 
-A new Flutter project.
+A simple Flutter based TicTacToe app.
 
-## Getting Started
+Contains two Features:
 
-This project is a starting point for a Flutter application.
+1.Single User Mode:
+        You can play with the Bot. The bot uses MiniMax algorithm that never loses !
+      
+2.MultiPlayer Mode:
+        You can play with your friends!
+        
+        
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+Home Page:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="https://github.com/bhavya092/TicTacToe/blob/main/ScreenShots/HomePage.png" width="400" height="500" />
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Single Player Mode:
+
+<img src="https://github.com/bhavya092/TicTacToe/blob/main/ScreenShots/Ai1.png" width="400" height="500" />
+<img src="https://github.com/bhavya092/TicTacToe/blob/main/ScreenShots/Ai2.png" width="400" height="500" />
+<img src="https://github.com/bhavya092/TicTacToe/blob/main/ScreenShots/Ai3.png" width="400" height="550" />
+
+
+MultiPlayer Mode:
+
+<img src="https://github.com/bhavya092/TicTacToe/blob/main/ScreenShots/MultiPlayer1.png" width="400" height="500" />
+<img src="https://github.com/bhavya092/TicTacToe/blob/main/ScreenShots/MultiPlayer2.png" width="400" height="500" />
+
+
+Rules Page:
+
+<img src="https://github.com/bhavya092/TicTacToe/blob/main/ScreenShots/Rules.png" width="400" height="500" />
